@@ -11,5 +11,3 @@
 📧 Email - sanghamitramymail@gmail.com
 
 💼 Portfolio - https://sanghamitra0591.github.io
-
-📄 Resume - https://drive.google.com/file/d/1VlYKsFyDYZQhb8Nv6aU2p3akf5ejewf6/view?usp=sharing
