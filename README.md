@@ -1,8 +1,5 @@
 ### Hi there 👋   I'm Sanghamitra Satpathy
 
-<!--
-**sanghamitra0591/sanghamitra0591** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### I'm a passionate Full Stack Web developer who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.
 
 🌍 I'm from in Cuttack, Odisha.
