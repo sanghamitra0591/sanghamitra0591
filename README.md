@@ -11,3 +11,6 @@
 📧 Email - sanghamitramymail@gmail.com
 
 💼 Portfolio - https://sanghamitra0591.github.io
+
+💼 linkedin - https://www.linkedin.com/in/sanghamitra-satpathy/
+
