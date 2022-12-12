@@ -1,3 +1,10 @@
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=sanghamitra0591&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
@@ -90,20 +97,6 @@ I'm a passionate Full Stack Web developer who likes to do experiments and always
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=sanghamitra0591&&style=flat-square" align="center" />
-</div>  
-  
 
 <br/>  
 
