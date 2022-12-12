@@ -6,7 +6,7 @@
 
 <br/>  
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="[https://rishavanand.github.io/static/images/greetings.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Farc.dev%2Femployer-blog%2Fsoftware-developer-freelance-vs-full-time-costs%2F&psig=AOvVaw1gY3PILmqlkq6vH7z6tzrp&ust=1670942663604000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNikyNGo9PsCFQAAAAAdAAAAABAE)" align="center" style="width: 100%" />
 </div>  
   
 
