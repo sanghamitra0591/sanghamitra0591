@@ -6,15 +6,12 @@
 
 <br/>  
 <div align="center">
-<img src="https://cdn-employer-wp.arc.dev/wp-content/uploads/2022/04/software-development-costs-1128x635.jpg" align="center" style="width: 100%" />
+<img src="https://cdn-employer-wp.arc.dev/wp-content/uploads/2022/04/software-development-costs-1128x635.jpg" align="center" style="width: 70%" />
 </div>  
   
 
 ### **<div align="center">Hi there 👋 I'm Sanghamitra Satpathy
-I'm a passionate Full Stack Web developer who likes to do experiments and always ready for learning new things 😃. I focus on writing clean, elegant and efficient code ✨.</div>**  
-  
-
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+I'm a passionate Full Stack Web developer who likes to do experiments and always ready for learning new things 😃. I focus on writing clean, elegant and efficient code ✨.</div>** 
   
 
 - 🌍 I'm from in Cuttack, Odisha.
