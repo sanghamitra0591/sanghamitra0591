@@ -3,6 +3,9 @@
 <img src="https://komarev.com/ghpvc/?username=sanghamitra0591&&style=flat-square" align="center" />
 </div>  
   
+<div align="center">
+<img src="https://cdn-employer-wp.arc.dev/wp-content/uploads/2022/04/software-development-costs-1128x635.jpg" align="center" style="width: 100%" />
+</div>  
 
 <br/>  
 ### **<div align="center">Hi there 👋 I'm Sanghamitra Satpathy
