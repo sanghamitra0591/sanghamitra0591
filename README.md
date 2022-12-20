@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img width="60%" margin="auto" align="center" src="https://github-readme-stats.vercel.app/api?username=sanghamitra0591&count_private=true&show_icons=true&theme=icegray&locale=en" alt="sanghamitra0591" /></p>
 
-<p><img width="60%" margin="auto" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanghamitra0591&theme=icegray" alt="sanghamitra0591" /></p>
+<p><img width="60%" margin="auto" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanghamitra0591&theme=blueberry_duo" alt="sanghamitra0591" /></p>
