@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sanghamitra0591&label=Profile%20views&color=0e75b6&style=flat" alt="sanghamitra0591" /> </p>
 
 <div align="center">
-<img src="https://cdn-employer-wp.arc.dev/wp-content/uploads/2022/04/software-development-costs-1128x635.jpg" align="center" style="width: 90%" />
+<img src="[https://cdn-employer-wp.arc.dev/wp-content/uploads/2022/04/software-development-costs-1128x635.jpg](https://www.skuchain.com/wp-content/uploads/2018/01/Hyperledger_Developer_Graphic_banner_v3-02-2.jpg)" align="center" style="width: 90%" />
 </div>
 
 
