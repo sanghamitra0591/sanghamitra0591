@@ -8,7 +8,7 @@
 </div>
 
 
-<p margin-top="30px" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanghamitra0591" alt="sanghamitra0591" /></a> </p>
+<p margin-top="40px" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanghamitra0591" alt="sanghamitra0591" /></a> </p>
 
 
 - 🌍 I'm from **Cuttack, Odisha.**
