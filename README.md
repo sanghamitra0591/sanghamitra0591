@@ -7,7 +7,7 @@
 <img src="https://res.cloudinary.com/proxify-io/image/upload/c_fill,f_auto,q_auto,dpr_auto,w_1440,h_600/v1/cms/images/articles/TkyF6I0lLwfDFJgK48FK2AlpftditG7GsBHUpB0E.png" align="center" style="width: 100%" />
 </div>
 
-
+<div height="20px"></div>
 <p margin-top="40px" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanghamitra0591" alt="sanghamitra0591" /></a> </p>
 
 
