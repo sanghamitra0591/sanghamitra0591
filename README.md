@@ -20,7 +20,8 @@
 
 - 📫 How to reach me **sanghamitramymail@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FiuoIKWy7jkRHJcf5Zw2J9X3NLpRqn-n/view?usp=share_link](https://drive.google.com/file/d/1FiuoIKWy7jkRHJcf5Zw2J9X3NLpRqn-n/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Fv170bSSoWS-7ylXN6Axq7hsX1OHh6O_/view?usp=share_link]
+- (https://drive.google.com/file/d/1Fv170bSSoWS-7ylXN6Axq7hsX1OHh6O_/view?usp=share_link)
 
 
 - 😃 My interest **Crafts & Swimming.**
@@ -28,7 +29,7 @@
 
 ## 🌐 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sanghamitra-satpathy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanghamitra-satpathy/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sanghamitra-satpathy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanghamitra-satpathy/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/sanghamitra0591" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sanghamitra0591" height="30" width="40" /></a>
 </p>
 
