@@ -3,12 +3,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sanghamitra0591&label=Profile%20views&color=0e75b6&style=flat" alt="sanghamitra0591" /> </p>
 
+<p margin-top="40px" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanghamitra0591" alt="sanghamitra0591" /></a> </p>
+
+
 <div align="center">
 <img src="https://res.cloudinary.com/proxify-io/image/upload/c_fill,f_auto,q_auto,dpr_auto,w_1440,h_600/v1/cms/images/articles/TkyF6I0lLwfDFJgK48FK2AlpftditG7GsBHUpB0E.png" align="center" style="width: 100%" />
 </div>
-
-
-<p margin-top="40px" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanghamitra0591" alt="sanghamitra0591" /></a> </p>
 
 
 - 🌍 I'm from **Cuttack, Odisha.**
