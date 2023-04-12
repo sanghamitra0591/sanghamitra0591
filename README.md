@@ -16,20 +16,15 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Fv170bSSoWS-7ylXN6Axq7hsX1OHh6O_/view?usp=share_link](https://drive.google.com/file/d/1Fv170bSSoWS-7ylXN6Axq7hsX1OHh6O_/view?usp=share_link)
 
-
-
 - 😃 My interest **Crafts & Swimming.**
-
-
-<div align="center">
-<img src="https://res.cloudinary.com/proxify-io/image/upload/c_fill,f_auto,q_auto,dpr_auto,w_1440,h_600/v1/cms/images/articles/TkyF6I0lLwfDFJgK48FK2AlpftditG7GsBHUpB0E.png" align="center" style="width: 100%" />
-</div>
-
 
 
 <p margin-top="40px" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanghamitra0591" alt="sanghamitra0591" /></a> </p>
 
 
+<div align="center">
+<img src="https://res.cloudinary.com/proxify-io/image/upload/c_fill,f_auto,q_auto,dpr_auto,w_1440,h_600/v1/cms/images/articles/TkyF6I0lLwfDFJgK48FK2AlpftditG7GsBHUpB0E.png" align="center" style="width: 100%" />
+</div>
 
 
 ## 🌐 Connect with me:
