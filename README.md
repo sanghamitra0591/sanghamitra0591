@@ -3,7 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sanghamitra0591&label=Profile%20views&color=0e75b6&style=flat" alt="sanghamitra0591" /> </p>
 
-
 - 🌍 I'm from **Cuttack, Odisha.**
 
 - 👨‍💻 All of my projects are available at [https://sanghamitra0591.github.io/](https://sanghamitra0591.github.io/)
