@@ -2,7 +2,6 @@
 <h4 align="center">I'm a passionate Full Stack Web developer who likes to do experiments and always ready for learning new things and focus on writing clean, elegant and efficient code</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sanghamitra0591&label=Profile%20views&color=0e75b6&style=flat" alt="sanghamitra0591" /> </p>
-
 - 🌍 I'm from **Cuttack, Odisha.**
 
 - 👨‍💻 All of my projects are available at [https://sanghamitra0591.github.io/](https://sanghamitra0591.github.io/)
